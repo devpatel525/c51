@@ -1,0 +1,39 @@
+h1{
+    color:brown;
+}
+
+*{
+    border:solid;
+}
+
+.header{
+    background-color:crimson;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    background-color: chocolate;
+    display:flex;
+    justify-content: space-evenly;
+    text-align:center
+}
+
+.patel{
+    background-color: cornflowerblue;
+    display :flex;
+    
+    justify-content: center;
+
+}
+
+
+.game{
+    background-color:cyan;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color:#ACDEFB;
+}
